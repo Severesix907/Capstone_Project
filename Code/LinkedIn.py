@@ -11,12 +11,10 @@ pages = 1000 # Number of pages to scrape
 # Initialize an empty list to store job information
 job_list = []
 
-# Create a place to store our Url 
 for page in range(pages):
     list_url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={title}&location={location}&start={start}"# Send a GET request to the URL and store the response
     response = requests.get(list_url)
 
-    #Get the HTML, parse the response and find all list items(jobs postings)
     list_data = response.text
     list_soup = BeautifulSoup(list_data, "html.parser")
     page_jobs = list_soup.find_all("li") 
