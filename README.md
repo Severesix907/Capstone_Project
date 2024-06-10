@@ -1,1 +1,2 @@
 # Capstone_Project
+The kaggle job data through exploraty data analysis, it shows what kind of jobs have the highest pay, which country and state hiring the most roles related to data, and how demanding for various tech skills, including python, sql, tableau, and power bi. It also shows the outliners for different data columns including salary pay and salary standarized. 
