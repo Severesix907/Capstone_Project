@@ -1,9 +1,10 @@
 # Capstone_Project also knows as Data Job East
 
-The capstone project was based on two datasets focused in different job post that are date driven. We used the the LinkedIn and Kaggle data that obtained company information, pay rate, dat posted and other useful information for job seekers. 
+The Data Job East capstone project is based on two datasets for job seekers. The LinkedIn and the Kaggle data were used for this project. Some of the columns that were implemented were the company name, pay rate, and the dates the job was posted. 
 
-we use several platforms to work with our data:
+Tools used to work on the data:
 - Python
 - AWS
 - Tableau BI
+
 
