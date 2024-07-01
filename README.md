@@ -5,6 +5,6 @@ The Data Job East capstone project is based on two datasets for job seekers. The
 Tools used to work on the data:
 - Python
 - AWS
-- Tableau BI
+- Tableau
 
 
