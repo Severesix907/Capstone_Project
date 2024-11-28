@@ -1,9 +1,12 @@
-# Data Job East Project
+## Data Job East Project
 
-The Data Job East project is based on two datasets for job seekers. The LinkedIn and the Kaggle data were used for this project.
+This project highlights data-related roles across the U.S., showcasing salary ranges from highest to lowest and the most in-demand skills. Kaggle and LinkedIn datasets were utilized for exploratory data analysis.
+
+Tools: Python, Pandas, Seaborn, AWS, Tableau
 
 Tools used to work on the data:
 - Python
+- Pandas
 - AWS
 - Tableau
 
